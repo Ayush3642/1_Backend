@@ -1,0 +1,19 @@
+{
+  "name": "chaideploy",
+  "version": "1.0.0",
+  "description": "a backend application to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "backend"
+  ],
+  "author": "Ayush Abhay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
