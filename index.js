@@ -1,6 +1,10 @@
 const express = require("express"); // same as : import express from "express";
 require("dotenv").config(); // or import 'dotenv/config'
 
+/*.env  
+PORT=3000
+*/
+
 const app = express();
 
 // const port = 4000; // 65,535 virtual ports in a system.
